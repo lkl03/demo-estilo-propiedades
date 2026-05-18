@@ -1,2 +1,7 @@
-# demo-estilo-propiedades
-Demo web para ESTILO PROPIEDADES — diseñada por eterlab.
+# ESTILO PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
